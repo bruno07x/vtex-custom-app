@@ -1,3 +1,3 @@
 # Store Block course template
 
-Here you'll learn how to create awesome Store Framework blocks!
+Vtex custom app: https://learn.vtex.com/docs/course-store-block-step02component-lang-pt
